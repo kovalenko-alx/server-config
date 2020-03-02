@@ -8,4 +8,7 @@ prl5                      ansible_host=10.200.14.25
 [public]
 prl-gateway
 
-
+[rvm]
+rir-benchmarks-web
+rir-gitlab-runner
+prl5
