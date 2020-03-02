@@ -3,6 +3,7 @@ prl-gateway               ansible_host=10.38.5.81
 rir-benchmarks-web        ansible_host=10.38.5.94
 rir-gitlab-runner         ansible_host=10.38.5.93
 dejavuii                  ansible_host=10.38.5.64
+prl5                      ansible_host=10.200.14.25
 
 [public]
 prl-gateway
